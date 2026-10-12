@@ -91,7 +91,7 @@ Responsible for simulating cyber threats and managing attacker progression throu
 - `PhishingThreat.java` — phishing incident behavior
 - `Attacker.java` — attacker state and simulated movement
 
-### 2. Kashish — Main System & Integration
+### 2. Kashish Vyas — Main System & Integration
 
 Responsible for the main program, coordinating the overall flow, and integrating and testing the team's modules.
 
