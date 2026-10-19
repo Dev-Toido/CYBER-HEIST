@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Company {
+public class  Company {
     private final String companyName;
     private final Map<Integer, Employee> employees = new LinkedHashMap<>();
 

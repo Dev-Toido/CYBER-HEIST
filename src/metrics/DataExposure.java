@@ -1,4 +1,4 @@
-package Metrics;
+package metrics;
 
 public class DataExposure {
 
