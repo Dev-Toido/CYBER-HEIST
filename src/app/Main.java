@@ -17,6 +17,7 @@ import threats.Threat;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.Scanner;
+import java.util.lang;
 
 public class Main {
     private record Startup(boolean shouldExit, PersistenceService persistence, List<Employee> employees) { }
